@@ -47,7 +47,6 @@ function agregarStringInvertida() {
     return NuevaString;
  };
 }
-//chequear, este codigo esta mal
 
 // No modificar nada debajo de esta línea
 // --------------------------------
