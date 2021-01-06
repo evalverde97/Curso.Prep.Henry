@@ -1,0 +1,44 @@
+h1 {color: slategray;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+
+img {
+    width: 400px;
+    display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: darkseagreen;
+    padding: 50px;
+    border: 5px khaki;
+    display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
