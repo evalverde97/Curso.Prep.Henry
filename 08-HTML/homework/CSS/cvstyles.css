@@ -1,0 +1,30 @@
+#imagenID {
+    height: 200px;
+    display: flex;
+justify-content: center;
+align-items: flex-start;
+position: static;
+}
+
+h1 {
+    background-color: cadetblue;
+    padding: 30px;
+    border: 10px black solid;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+#titulo {
+    position: relative;
+    left: 60px;
+}
+#lista {
+    font-family: -webkit-pictograph;
+    font-size: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
